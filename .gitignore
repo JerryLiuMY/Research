@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+.tmp.driveupload
+.tmp.drivedownload
+.DS_Store
+*.pyc
+*.ipynb
+/Finance/talks
+/temp
