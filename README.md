@@ -4,7 +4,7 @@
 **Books & Notes**
 - [[Link]](https://link-url-here.org)
 - [[Link]](https://link-url-here.org) 
-- [[Link]](/ML/textbooks) Advanced Topics in Statistical Machine Learning, Tom Rainforth 2021
+- [[Link]](/ML/textbooks/ATSML.pdf) Advanced Topics in Statistical Machine Learning, *Tom Rainforth 2021*
 
 ## Finance
 **Textbook**
