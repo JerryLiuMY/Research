@@ -14,7 +14,7 @@
 - Efficient Transformers: A Survey [[Link]](/ML/transformer/2009.06732.pdf)
 
 ## Finance
-**Textbook**
+**Books & Notes**
 - Empirical Asset Pricing: The Cross Section of Stock Returns, *Turan G. Bali, 2016* [[Link]](/Finance/textbooks/asset_pricing.pdf)
 - Foundations of Reinforcement Learning with Applications in Finance, *Ashwin Rao, 2022* [[Link]](/Finance/textbooks/rl_finance.pdf)
 
@@ -26,9 +26,17 @@
 - Recent Advances in Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3971071.pdf)
 - Modern Perspectives on Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3449401.pdf)
 
-## Causal Inference
-### Textual analysis 
+**Textual Data** [[Folder]](/Finance/textual) 
+- Textual Analysis in Accounting and Finance: A Survey [[Link]](/Finance/textual/SSRN-id2504147.pdf)
+- Textual Analysis in Finance [[Link]](/Finance/textual/SSRN-id3470272.pdf)
+- Predicting Returns with Text Data [[Link]](/Finance/textual/BFI_WP_201969.pdf)
+- Text as Data [[Link]](/Finance/textual/w23276.pdf)
 
+## Causal Inference
+**Books & Notes**
+- Chapter 35 Causality, *Veitch & D’Amour, 2022* [[Link]](/Causal/textbooks/Causality.pdf)
+- An Introduction to Causal Inference, *Judea Pearl, 2010* [[Link]](/Causal/textbooks/Pearl.pdf)
+- STATS 361: Causal Inference, *Stefan Wager, 2020* [[Link]](/Causal/textbooks/Wager.pdf)
+- Advanced Data Analysis from an Elementary Point of View, *Cosma Shalizi, 2021* [[Link]](/Causal/textbooks/Shalizi.pdf)
 
 ## Graphical Models
-### Textual analysis 
