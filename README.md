@@ -1,10 +1,23 @@
 # Literature
 
 ## Machine Learning 
+**Books & Notes**
+- [[Link]](https://link-url-here.org)
+- [[Link]](https://link-url-here.org) 
+- [[Link]](/ML/textbooks) Advanced Topics in Statistical Machine Learning, Tom Rainforth 2021
 
-## ML in Finance
-### ML
-### Textual analysis 
+## Finance
+**Textbook**
+- 
+
+#### ML 
+
+- 
+
+#### RL 
+- 
+
+#### Textual analysis 
 
 ## Causal Inference
 ### Textual analysis 
