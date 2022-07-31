@@ -34,9 +34,13 @@
 
 ## Causal Inference
 **Books & Notes**
-- Chapter 35 Causality, *Veitch & D’Amour, 2022* [[Link]](/Causal/textbooks/Causality.pdf)
+- Chapter 35 Causality, *Veitch & D’Amour, 2022* [[Link]](/Causal/textbooks/Causality.pdf) [[Tutorial]](https://github.com/vveitch/causality-tutorials)
 - An Introduction to Causal Inference, *Judea Pearl, 2010* [[Link]](/Causal/textbooks/Pearl.pdf)
 - STATS 361: Causal Inference, *Stefan Wager, 2020* [[Link]](/Causal/textbooks/Wager.pdf)
 - Advanced Data Analysis from an Elementary Point of View, *Cosma Shalizi, 2021* [[Link]](/Causal/textbooks/Shalizi.pdf)
+- Introduction to Causal Inference, *Brady Neal, 2021* [[Link]](https://www.bradyneal.com/causal-inference-course)
+
+**Econometrics** [[Folder]](/Causal/econometrics) 
+- Synthetic Control Methods for Comparative Case Studies, *Alberto Abadie, 2010* [[Link]](/Causal/econometrics/Synthetic_Control.pdf)
 
 ## Graphical Models
