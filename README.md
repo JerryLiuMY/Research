@@ -50,7 +50,13 @@
 - Adapting Text Embeddings for Causal Inference [[Link]](/Causal/ml/veitch20a.pdf)
 
 ## Variational Inference 
+**Books & Notes**
+- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
+- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
 
+**Papers**
+- Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1312.6114.pdf)
+- Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1401.4082.pdf)
 
 ## Graphical Models
 **Books & Notes**
@@ -60,4 +66,3 @@
 **Papers**
 - DAGs with NO TEARS: Continuous Optimization for Structure Learning [[Link]](Graphical/papers/NeurIPS-2018-dags-with-no-tears-continuous-optimization-for-structure-learning-Paper.pdf)
 - Sparse Nonparametric Graphical Models [[Link]](Graphical/papers/1201.0794.pdf)
-- 
