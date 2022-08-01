@@ -46,7 +46,18 @@
 - Granular Instrumental Variables [[Link]](/Causal/econometrics/Granular_IV.pdf)
 - Inference on Winners [[Link]](/Causal/econometrics/inference_on_winners.pdf)
 
-**ML** [[Folder]](/Causal/ML) 
+**ML** [[Folder]](/Causal/ml) 
 - Adapting Text Embeddings for Causal Inference [[Link]](/Causal/ml/veitch20a.pdf)
 
+## Variational Inference 
+
+
 ## Graphical Models
+**Books & Notes**
+- Handbook of Graphical Models, *Steffen Lauritzen, 2018* [[Link]](/Graphical/textbooks/Handbook.pdf)
+- Graphical Models, *Robin Evans, 2021* [[Link]](/Graphical/textbooks/Evans.pdf)
+
+**Papers**
+- DAGs with NO TEARS: Continuous Optimization for Structure Learning [[Link]](Graphical/papers/NeurIPS-2018-dags-with-no-tears-continuous-optimization-for-structure-learning-Paper.pdf)
+- Sparse Nonparametric Graphical Models [[Link]](Graphical/papers/1201.0794.pdf)
+- 
