@@ -1,4 +1,5 @@
 # Literature
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Machine Learning 
 **Books & Notes**
