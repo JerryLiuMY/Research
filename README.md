@@ -57,7 +57,7 @@
 
 **Papers** [[Folder]](/Variational/papers)
 - Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1312.6114.pdf)
-- Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1401.4082.pdf)
+- Stochastic Backpropagation and Approximate Inference in Deep Generative Models [[Link]](/Variational/papers/1401.4082.pdf)
 
 ## Graphical Models
 **Books & Notes**
