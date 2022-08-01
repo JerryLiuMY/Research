@@ -7,7 +7,7 @@
 - Reinforcement Learning: An Introduction, *Sutton & Barto, 2020* [[Link]](/ML/textbooks/RL_Book.pdf)
 - Statistical Machine Learning, *Francois Caron, 2021* [[Link]](/ML/textbooks/SML.pdf)
 - Advanced Topics in Statistical Machine Learning, *Tom Rainforth, 2021* [[Link]](/ML/textbooks/ATSML.pdf)
-- Tutorials on Bayesian Nonparametrics [[Link]](http://www.gatsby.ucl.ac.uk/~porbanz/npb-tutorial.html)
+- Tutorials on Bayesian Nonparametrics, *Peter Orbanz, 2014* [[Link]](http://www.gatsby.ucl.ac.uk/~porbanz/npb-tutorial.html)
 - A Tutorial on Bayesian Optimization, *Peter I. Frazier, 2018* [[Link]](/ML/textbooks/1807.02811.pdf)
 - Modern Methods in Applied Statistics, *Matthew Stephens, 2022* [[Link]](https://stephens999.github.io/fiveMinuteStats/)
 
