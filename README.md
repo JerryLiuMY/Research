@@ -7,6 +7,7 @@
 - Reinforcement Learning: An Introduction, *Sutton & Barto, 2020* [[Link]](/ML/textbooks/RL_Book.pdf)
 - Statistical Machine Learning, *Francois Caron, 2021* [[Link]](/ML/textbooks/SML.pdf)
 - Advanced Topics in Statistical Machine Learning, *Tom Rainforth, 2021* [[Link]](/ML/textbooks/ATSML.pdf)
+- A Tutorial on Bayesian Optimization, *Peter I. Frazier, 2018* [[Link]](/ML/textbooks/1807.02811.pdf)
 - Modern Methods in Applied Statistics, *Matthew Stephens, 2022* [[Link]](https://stephens999.github.io/fiveMinuteStats/)
 
 **Transformer** [[Folder]](/ML/transformer)
