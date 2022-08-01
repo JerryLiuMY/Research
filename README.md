@@ -54,7 +54,7 @@
 - An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
 - Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
 
-**Papers**
+**Papers** [[Folder]](/Variational/papers)
 - Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1312.6114.pdf)
 - Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1401.4082.pdf)
 
@@ -63,6 +63,6 @@
 - Handbook of Graphical Models, *Steffen Lauritzen, 2018* [[Link]](/Graphical/textbooks/Handbook.pdf)
 - Graphical Models, *Robin Evans, 2021* [[Link]](/Graphical/textbooks/Evans.pdf)
 
-**Papers**
-- DAGs with NO TEARS: Continuous Optimization for Structure Learning [[Link]](Graphical/papers/NeurIPS-2018-dags-with-no-tears-continuous-optimization-for-structure-learning-Paper.pdf)
-- Sparse Nonparametric Graphical Models [[Link]](Graphical/papers/1201.0794.pdf)
+**Papers** [[Folder]](/Graphical/papers)
+- DAGs with NO TEARS: Continuous Optimization for Structure Learning [[Link]](/Graphical/papers/NeurIPS-2018-dags-with-no-tears-continuous-optimization-for-structure-learning-Paper.pdf)
+- Sparse Nonparametric Graphical Models [[Link]](/Graphical/papers/1201.0794.pdf)
