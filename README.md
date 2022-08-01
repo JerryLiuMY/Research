@@ -41,6 +41,12 @@
 - Introduction to Causal Inference, *Brady Neal, 2021* [[Link]](https://www.bradyneal.com/causal-inference-course)
 
 **Econometrics** [[Folder]](/Causal/econometrics) 
-- Synthetic Control Methods for Comparative Case Studies, *Alberto Abadie, 2010* [[Link]](/Causal/econometrics/Synthetic_Control.pdf)
+- Synthetic Control Methods for Comparative Case Studies [[Link]](/Causal/econometrics/Synthetic_Control.pdf)
+- Estimation and Inference of Heterogeneous Treatment Effects using Random Forests [[Link]](/Causal/econometrics/Causal_Forests.pdf)
+- Granular Instrumental Variables [[Link]](/Causal/econometrics/Granular_IV.pdf)
+- Inference on Winners [[Link]](/Causal/econometrics/inference_on_winners.pdf)
+
+**ML** [[Folder]](/Causal/ML) 
+- Adapting Text Embeddings for Causal Inference [[Link]](/Causal/ml/veitch20a.pdf)
 
 ## Graphical Models
