@@ -16,6 +16,12 @@
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[Link]](/ML/transformer/1810.04805.pdf)
 - Efficient Transformers: A Survey [[Link]](/ML/transformer/2009.06732.pdf)
 
+**LVM and Variational Inference** [[Folder]](/ML/variational)
+- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/ML/variational/1906.02691.pdf)
+- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/ML/variational/Chapter_9.pdf)
+- Auto-Encoding Variational Bayes [[Link]](/ML/variational/1312.6114.pdf)
+- Stochastic Backpropagation and Approximate Inference in Deep Generative Models [[Link]](/ML/variational/1401.4082.pdf)
+
 ## Finance
 **Books & Notes**
 - Empirical Asset Pricing: The Cross Section of Stock Returns, *Turan G. Bali, 2016* [[Link]](/Finance/textbooks/asset_pricing.pdf)
@@ -51,15 +57,6 @@
 
 **ML** [[Folder]](/Causal/ml) 
 - Adapting Text Embeddings for Causal Inference [[Link]](/Causal/ml/veitch20a.pdf)
-
-## Variational Inference 
-**Books & Notes**
-- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
-- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
-
-**Papers** [[Folder]](/Variational/papers)
-- Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1312.6114.pdf)
-- Stochastic Backpropagation and Approximate Inference in Deep Generative Models [[Link]](/Variational/papers/1401.4082.pdf)
 
 ## Graphical Models
 **Books & Notes**
