@@ -16,7 +16,7 @@
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[Link]](/ML/transformer/1810.04805.pdf)
 - Efficient Transformers: A Survey [[Link]](/ML/transformer/2009.06732.pdf)
 
-**LVM and Variational Inference** [[Folder]](/ML/variational)
+**Variational Inference** [[Folder]](/ML/variational)
 - An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/ML/variational/1906.02691.pdf)
 - Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/ML/variational/Chapter_9.pdf)
 - Auto-Encoding Variational Bayes [[Link]](/ML/variational/1312.6114.pdf)
