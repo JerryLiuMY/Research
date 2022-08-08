@@ -22,6 +22,13 @@
 - Auto-Encoding Variational Bayes [[Link]](/ML/variational/1312.6114.pdf)
 - Stochastic Backpropagation and Approximate Inference in Deep Generative Models [[Link]](/ML/variational/1401.4082.pdf)
 
+**Learning Theory** [[Folder]](/ML/theory)
+- Concentration Inequalities [[Link]](/ML/theory/Inequalities.pdf)
+- VC Dimension. Covering and Packing Numbers [[Link]](/ML/theory/AFoL_Lecture_04.pdf)
+- Sub-Gaussian Concentration Inequalities. Bounds in Probability [[Link]](/ML/theory/AFoL_Lecture_06.pdf)
+- Bernstein's Concentration Inequalities. Fast Rates [[Link]](/ML/theory/AFoL_Lecture_07.pdf)
+- Stochastic Multi-Armed Bandit Problem and Algorithms [[Link]](/ML/theory/AFoL_Lecture_15.pdf)
+
 ## Finance
 **Books & Notes**
 - Empirical Asset Pricing: The Cross Section of Stock Returns, *Turan G. Bali, 2016* [[Link]](/Finance/textbooks/asset_pricing.pdf)
