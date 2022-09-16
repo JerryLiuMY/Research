@@ -60,6 +60,13 @@
 **ML** [[Folder]](/Causal/ml) 
 - Adapting Text Embeddings for Causal Inference [[Link]](/Causal/ml/veitch20a.pdf)
 
+## Variational Inference
+**Books & Notes**
+- Auto-Encoding Variational Bayes [[Link]](/Variational/textbooks/1312.6114.pdf)
+- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
+- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
+- Understanding Diffusion Models: A Unified Perspective, *Calvin Luo, 2022* [[Link]](/Variational/textbooks/2208.11970.pdf)
+
 ## Graphical Models
 **Books & Notes**
 - Handbook of Graphical Models, *Steffen Lauritzen, 2018* [[Link]](/DAG/textbooks/Handbook.pdf)
@@ -68,10 +75,3 @@
 **Papers** [[Folder]](/DAG/papers)
 - DAGs with NO TEARS: Continuous Optimization for Structure Learning [[Link]](/DAG/papers/NeurIPS-2018-dags-with-no-tears-continuous-optimization-for-structure-learning-Paper.pdf)
 - Sparse Nonparametric Graphical Models [[Link]](/DAG/papers/1201.0794.pdf)
-
-## Variational Inference
-**Books & Notes**
-- Auto-Encoding Variational Bayes [[Link]](/Variational/textbooks/1312.6114.pdf)
-- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
-- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
-- Understanding Diffusion Models: A Unified Perspective, *Calvin Luo, 2022* [[Link]](/Variational/textbooks/2208.11970.pdf)
