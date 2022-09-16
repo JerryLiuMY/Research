@@ -15,12 +15,7 @@
 - Attention Is All You Need [[Link]](/ML/transformer/1706.03762.pdf)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[Link]](/ML/transformer/1810.04805.pdf)
 - Efficient Transformers: A Survey [[Link]](/ML/transformer/2009.06732.pdf)
-
-**Variational Inference** [[Folder]](/ML/variational)
-- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/ML/variational/1906.02691.pdf)
-- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/ML/variational/Chapter_9.pdf)
-- Auto-Encoding Variational Bayes [[Link]](/ML/variational/1312.6114.pdf)
-- Stochastic Backpropagation and Approximate Inference in Deep Generative Models [[Link]](/ML/variational/1401.4082.pdf)
+- Formal Algorithms for Transformers [[Link]](/ML/transformer/2207.09238.pdf)
 
 **Learning Theory** [[Folder]](/ML/theory)
 - Concentration Inequalities [[Link]](/ML/theory/Inequalities.pdf)
@@ -67,9 +62,16 @@
 
 ## Graphical Models
 **Books & Notes**
-- Handbook of Graphical Models, *Steffen Lauritzen, 2018* [[Link]](/Graphical/textbooks/Handbook.pdf)
-- Graphical Models, *Robin Evans, 2021* [[Link]](/Graphical/textbooks/Evans.pdf)
+- Handbook of Graphical Models, *Steffen Lauritzen, 2018* [[Link]](/DAG/textbooks/Handbook.pdf)
+- Graphical Models, *Robin Evans, 2021* [[Link]](/DAG/textbooks/Evans.pdf)
 
-**Papers** [[Folder]](/Graphical/papers)
-- DAGs with NO TEARS: Continuous Optimization for Structure Learning [[Link]](/Graphical/papers/NeurIPS-2018-dags-with-no-tears-continuous-optimization-for-structure-learning-Paper.pdf)
-- Sparse Nonparametric Graphical Models [[Link]](/Graphical/papers/1201.0794.pdf)
+**Papers** [[Folder]](/DAG/papers)
+- DAGs with NO TEARS: Continuous Optimization for Structure Learning [[Link]](/DAG/papers/NeurIPS-2018-dags-with-no-tears-continuous-optimization-for-structure-learning-Paper.pdf)
+- Sparse Nonparametric Graphical Models [[Link]](/DAG/papers/1201.0794.pdf)
+
+## Variational Inference
+**Books & Notes**
+- Auto-Encoding Variational Bayes [[Link]](/Variational/textbooks/1312.6114.pdf)
+- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
+- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
+- Understanding Diffusion Models: A Unified Perspective, *Calvin Luo, 2022* [[Link]](/Variational/textbooks/2208.11970.pdf)
