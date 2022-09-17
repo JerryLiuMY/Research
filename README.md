@@ -4,6 +4,8 @@
 ## Machine Learning 
 **Books & Notes**
 - The Elements of Statistical Learning, *Trevor Hastie, 2008* [[Link]](/ML/textbooks/ESLII.pdf)
+- Machine Learning: A Probabilistic Perspective, *Kevin P. Murphy, 2012* [[Link]](/ML/textbooks/Murphy_1.pdf)
+- Probabilistic Machine Learning: Advanced Topics, *Kevin P. Murphy, 2022* [[Link]](/ML/textbooks/Murphy_2.pdf)
 - Reinforcement Learning: An Introduction, *Sutton & Barto, 2020* [[Link]](/ML/textbooks/RL_Book.pdf)
 - Statistical Machine Learning, *Francois Caron, 2021* [[Link]](/ML/textbooks/SML.pdf)
 - Advanced Topics in Statistical Machine Learning, *Tom Rainforth, 2021* [[Link]](/ML/textbooks/ATSML.pdf)
