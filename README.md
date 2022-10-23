@@ -63,11 +63,17 @@
 - Adapting Text Embeddings for Causal Inference [[Link]](/Causal/ml/veitch20a.pdf)
 
 ## Variational Inference
-**Books & Notes**
-- Auto-Encoding Variational Bayes [[Link]](/Variational/textbooks/1312.6114.pdf)
+**Books & Notes** [[Folder]](/Variational/textbooks)
 - An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
 - Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
 - Understanding Diffusion Models: A Unified Perspective, *Calvin Luo, 2022* [[Link]](/Variational/textbooks/2208.11970.pdf)
+
+**Papers** [[Folder]](/Variational/papers)
+- Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1312.6114.pdf)
+
+## Generative Adversarial Networks
+**Papers** [[Folder]](/GAN/papers)
+- Auto-Encoding Variational Bayes [[Link]](/GAN/papers/1701.07875.pdf)
 
 ## Graphical Models
 **Books & Notes**
