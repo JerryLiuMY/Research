@@ -70,6 +70,7 @@
 
 **Papers** [[Folder]](/Variational/papers)
 - Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1312.6114.pdf)
+- Semi-supervised Learning with Deep Generative Models [[Link]](/Variational/papers/1406.5298.pdf)
 
 ## Generative Adversarial Networks
 **Papers** [[Folder]](/GAN/papers)
