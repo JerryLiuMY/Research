@@ -62,19 +62,16 @@
 **ML** [[Folder]](/Causal/ml) 
 - Adapting Text Embeddings for Causal Inference [[Link]](/Causal/ml/veitch20a.pdf)
 
-## Variational Inference
-**Books & Notes** [[Folder]](/Variational/textbooks)
-- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Variational/textbooks/1906.02691.pdf)
-- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Variational/textbooks/Chapter_9.pdf)
-- Understanding Diffusion Models: A Unified Perspective, *Calvin Luo, 2022* [[Link]](/Variational/textbooks/2208.11970.pdf)
+## Generative Models
+**Books & Notes** [[Folder]](/Generative/textbooks)
+- An Introduction to Variational Autoencoders, *Kingma & Welling, 2019* [[Link]](/Generative/textbooks/1906.02691.pdf)
+- Latent VariableModels and Variational Approaches, *Tom Rainforth, 2021* [[Link]](/Generative/textbooks/Chapter_9.pdf)
+- Understanding Diffusion Models: A Unified Perspective, *Calvin Luo, 2022* [[Link]](/Generative/textbooks/2208.11970.pdf)
 
-**Papers** [[Folder]](/Variational/papers)
-- Auto-Encoding Variational Bayes [[Link]](/Variational/papers/1312.6114.pdf)
-- Semi-supervised Learning with Deep Generative Models [[Link]](/Variational/papers/1406.5298.pdf)
-
-## Generative Adversarial Networks
-**Papers** [[Folder]](/GAN/papers)
-- Auto-Encoding Variational Bayes [[Link]](/GAN/papers/1701.07875.pdf)
+**Papers** [[Folder]](/Generative/papers)
+- Auto-Encoding Variational Bayes [[Link]](/Generative/papers/1312.6114.pdf)
+- Semi-supervised Learning with Deep Generative Models [[Link]](/Generative/papers/1406.5298.pdf)
+- Auto-Encoding Variational Bayes [[Link]](/Generative/papers/1701.07875.pdf)
 
 ## Graphical Models
 **Books & Notes**
