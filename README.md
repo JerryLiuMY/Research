@@ -34,6 +34,8 @@
 **ML** [[Folder]](/Finance/ML) 
 - Factor Models, Machine Learning, and Asset Pricing [[Link]](/Finance/ML/AR_1006_WEB.pdf)
 - Empirical Asset Pricing via Machine Learning [[Link]](/Finance/ML/ML.pdf)
+- Autoencoder Asset Pricing Models [[Link]](/Finance/ML/SSRN-id3335536.pdf)
+- The Transfer Performance of Economic Models [[Link]](/Finance/ML/Theory_Transfer.pdf)
 
 **RL** [[Folder]](/Finance/RL) 
 - Recent Advances in Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3971071.pdf)
