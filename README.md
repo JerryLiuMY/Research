@@ -41,11 +41,13 @@
 - Recent Advances in Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3971071.pdf)
 - Modern Perspectives on Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3449401.pdf)
 
-**Textual Data** [[Folder]](/Finance/Textual) 
+**Textual Data** [[Folder]](/Finance/Textual)
+- Word Power: A New Approach for Content Analysis [[Link]](/Finance/Textual/Word_Power.pdf)
 - Textual Analysis in Accounting and Finance: A Survey [[Link]](/Finance/Textual/SSRN-id2504147.pdf)
 - Textual Analysis in Finance [[Link]](/Finance/Textual/SSRN-id3470272.pdf)
 - Predicting Returns with Text Data [[Link]](/Finance/Textual/BFI_WP_201969.pdf)
 - Text as Data [[Link]](/Finance/Textual/w23276.pdf)
+- The Structure of Economic News [[Link]](/Finance/Textual/w26648.pdf)
 
 ## Causal Inference
 **Books & Notes**
