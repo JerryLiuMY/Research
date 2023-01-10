@@ -35,6 +35,8 @@
 **Factor Models** [[Folder]](/Finance/Factor)
 - Determining the number of factors in approximate factor models [[Link]](/Finance/Factor/10.1.1.415.7505.pdf)
 - Inferential theory for factor models of large dimensions [[Link]](/Finance/Factor/Bai2003.pdf)
+- Using principal component analysis to estimate a high dimensional factor model with high-frequency data [[Link]](/Finance/Factor/PCA_COV.pdf)
+- High-frequency factor models and regressions [[Link]](/Finance/Factor/IDIOVOL.pdf)
 - Taming the Factor Zoo: A Test of New Factors [[Link]](/Finance/Factor/ZOO.pdf)
 - Factors That Fit the Time Series and Cross-Section of Stock Returns [[Link]](/Finance/Factor/hhaa020.pdf)
 - Asset Pricing with Omitted Factors [[Link]](/Finance/Factor/RP.pdf)
