@@ -28,26 +28,37 @@
 
 ## Finance
 **Books & Notes**
-- Empirical Asset Pricing: The Cross Section of Stock Returns, *Turan G. Bali, 2016* [[Link]](/Finance/textbooks/asset_pricing.pdf)
+- Empirical Asset Pricing: The Cross-Section of Stock Returns, *Turan G. Bali, 2016* [[Link]](/Finance/textbooks/asset_pricing.pdf)
 - Foundations of Reinforcement Learning with Applications in Finance, *Ashwin Rao, 2022* [[Link]](/Finance/textbooks/rl_finance.pdf)
+- Factor Models, Machine Learning, and Asset Pricing [[Link]](/Finance/textbooks/AR_1006_WEB.pdf)
 
-**ML** [[Folder]](/Finance/ML) 
-- Factor Models, Machine Learning, and Asset Pricing [[Link]](/Finance/ML/AR_1006_WEB.pdf)
+**Factor Models** [[Folder]](/Finance/Factor)
+- Determining the number of factors in approximate factor models [[Link]](/Finance/Factor/10.1.1.415.7505.pdf)
+- Inferential theory for factor models of large dimensions [[Link]](/Finance/Factor/Bai2003.pdf)
+- Taming the Factor Zoo: A Test of New Factors [[Link]](/Finance/Factor/ZOO.pdf)
+- Factors That Fit the Time Series and Cross-Section of Stock Returns [[Link]](/Finance/Factor/hhaa020.pdf)
+- Asset Pricing with Omitted Factors [[Link]](/Finance/Factor/RP.pdf)
+
+**ML** [[Folder]](/Finance/ML)
 - Empirical Asset Pricing via Machine Learning [[Link]](/Finance/ML/ML.pdf)
 - Autoencoder Asset Pricing Models [[Link]](/Finance/ML/SSRN-id3335536.pdf)
 - The Transfer Performance of Economic Models [[Link]](/Finance/ML/Theory_Transfer.pdf)
+- Is There a Replication Crisis in Finance? [[Link]](/Finance/ML/SSRN-id3774514.pdf)
 
 **RL** [[Folder]](/Finance/RL) 
 - Recent Advances in Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3971071.pdf)
 - Modern Perspectives on Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3449401.pdf)
 
-**Textual Data** [[Folder]](/Finance/Textual)
-- Word Power: A New Approach for Content Analysis [[Link]](/Finance/Textual/Word_Power.pdf)
-- Textual Analysis in Accounting and Finance: A Survey [[Link]](/Finance/Textual/SSRN-id2504147.pdf)
-- Textual Analysis in Finance [[Link]](/Finance/Textual/SSRN-id3470272.pdf)
-- Predicting Returns with Text Data [[Link]](/Finance/Textual/BFI_WP_201969.pdf)
-- Text as Data [[Link]](/Finance/Textual/w23276.pdf)
-- The Structure of Economic News [[Link]](/Finance/Textual/w26648.pdf)
+**Alternative Data** [[Folder]](/Finance/Alternative)
+- Word Power: A New Approach for Content Analysis [[Link]](/Finance/Alternative/Word_Power.pdf)
+- Textual Analysis in Accounting and Finance: A Survey [[Link]](/Finance/Alternative/SSRN-id2504147.pdf)
+- Textual Analysis in Finance [[Link]](/Finance/Alternative/SSRN-id3470272.pdf)
+- Predicting Returns with Text Data [[Link]](/Finance/Alternative/BFI_WP_201969.pdf)
+- Text as Data [[Link]](/Finance/Alternative/w23276.pdf)
+- The Structure of Economic News [[Link]](/Finance/Alternative/w26648.pdf)
+- (Re-)Imag(in)ing Price Trends [[Link]](/Finance/Alternative/SSRN-id3756587.pdf)
+- Measuring investor sentiment by combining machine learning and photos from news [[Link]](/Finance/Alternative/SSRN-id3841844.pdf)
+
 
 ## Causal Inference
 **Books & Notes**
