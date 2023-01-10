@@ -26,7 +26,7 @@
 - Bernstein's Concentration Inequalities. Fast Rates [[Link]](/ML/theory/AFoL_Lecture_07.pdf)
 - Stochastic Multi-Armed Bandit Problem and Algorithms [[Link]](/ML/theory/AFoL_Lecture_15.pdf)
 
-## Finance
+## Econometrics & Finance
 **Books & Notes**
 - Empirical Asset Pricing: The Cross-Section of Stock Returns, *Turan G. Bali, 2016* [[Link]](/Finance/textbooks/asset_pricing.pdf)
 - Foundations of Reinforcement Learning with Applications in Finance, *Ashwin Rao, 2022* [[Link]](/Finance/textbooks/rl_finance.pdf)
