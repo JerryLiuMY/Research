@@ -37,15 +37,23 @@
 - Inferential theory for factor models of large dimensions [[Link]](/Finance/Factor/Bai2003.pdf)
 - Using principal component analysis to estimate a high dimensional factor model with high-frequency data [[Link]](/Finance/Factor/PCA_COV.pdf)
 - High-frequency factor models and regressions [[Link]](/Finance/Factor/IDIOVOL.pdf)
+- Thousands of Alpha Tests [[Link]](/Finance/Factor/hhaa111.pdf)
+- Characteristics are covariances: A unified model of risk and return [[Link]](/Finance/Factor/1-s2.0-S0304405X19301151-main.pdf)
+- The three-pass regression filter: A new approach to forecasting using many predictors [[Link]](/Finance/Factor/1-s2.0-S0304407615000354-main.pdf)
 - Taming the Factor Zoo: A Test of New Factors [[Link]](/Finance/Factor/ZOO.pdf)
 - Factors That Fit the Time Series and Cross-Section of Stock Returns [[Link]](/Finance/Factor/hhaa020.pdf)
 - Asset Pricing with Omitted Factors [[Link]](/Finance/Factor/RP.pdf)
+- Principal Portfolios [[Link]](/Finance/Factor/SSRN-id3623983.pdf)
+- Instrumented Principal Component Analysis [[Link]](/Finance/Factor/SSRN-id2983919.pdf)
 
 **ML** [[Folder]](/Finance/ML)
 - Empirical Asset Pricing via Machine Learning [[Link]](/Finance/ML/ML.pdf)
 - Autoencoder Asset Pricing Models [[Link]](/Finance/ML/SSRN-id3335536.pdf)
 - The Transfer Performance of Economic Models [[Link]](/Finance/ML/Theory_Transfer.pdf)
 - Is There a Replication Crisis in Finance? [[Link]](/Finance/ML/SSRN-id3774514.pdf)
+- The Virtue of Complexity in Return Prediction [[Link]](/Finance/ML/SSRN-id3984925.pdf)
+- Measuring Technological Innovation over the Long Run [[Link]](/Finance/ML/SSRN-id3279254.pdf)
+- Can Machines “Learn” Finance? [[Link]](/Finance/ML/SSRN-id3624052.pdf)
 
 **RL** [[Folder]](/Finance/RL) 
 - Recent Advances in Reinforcement Learning in Finance [[Link]](/Finance/RL/SSRN-id3971071.pdf)
@@ -60,6 +68,7 @@
 - The Structure of Economic News [[Link]](/Finance/Alternative/w26648.pdf)
 - (Re-)Imag(in)ing Price Trends [[Link]](/Finance/Alternative/SSRN-id3756587.pdf)
 - Measuring investor sentiment by combining machine learning and photos from news [[Link]](/Finance/Alternative/SSRN-id3841844.pdf)
+- Text Selection [[Link]](/Finance/Alternative/SSRN-id3491942.pdf)
 
 
 ## Causal Inference
